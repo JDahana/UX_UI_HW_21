@@ -245,17 +245,17 @@ body {
   }
   #conclusion1 {
     grid-area: conclusion1;
-    background-image: url(../images/);
+    background-image: url(../images/conclusion1.png);
     height: 300px;
   }
   #conclusion2 {
     grid-area: conclusion2;
-    background-image: url(../images/conclusion\ 2.png);
+    background-image: url(../images/conclusion2.png);
     height: 300px;
   }
   #conclusion3 {
     grid-area: conclusion3;
-    background-image: url(../images/conclusion\ 3.png);
+    background-image: url(../images/conclusion3.png);
     height: 300px;
   }
   #conclusion4 {
@@ -291,7 +291,7 @@ body {
   }
   #project2 {
     grid-area: project2;
-    background-image: url(../images/more\ project\ 2.png);
+    background-image: url(../images/fridgefamily.png);
     height: 270px;
   }
   .projectGridArea {
